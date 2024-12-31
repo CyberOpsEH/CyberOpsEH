@@ -25,7 +25,7 @@ My journey in cybersecurity has centered on vulnerability management and complia
 - ![Trexllix](https://img.shields.io/badge/Trexlix%20Endpoint%20Security-Protection-green) Trellix Endpoint Security for endpoint protection.
 
 ### 2. Automation and Scripting
-- ![PowerShell](https://img.shields.io/badge/PowerShell-5.x-blue) PowerShell for task automation and scripting.
+- ![PowerShell](https://img.shields.io/badge/PowerShell-blue) PowerShell for task automation and scripting.
 
 ### 3. Identity and Access Management
 - ![Active Directory](https://img.shields.io/badge/Active%20Directory-Identity%20Management-blue) Active Directory for user authentication and network access management.
