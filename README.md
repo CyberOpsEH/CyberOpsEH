@@ -8,7 +8,6 @@ I am an IT and cybersecurity professional experience in IT administration, netwo
 My journey in cybersecurity has centered on vulnerability management and compliance frameworks, enabling me to identify risks, evaluate security postures, and implement strategies that safeguard critical assets. This work helps organizations maintain robust and resilient defenses against evolving cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         |         |
 |-----------------------------------------------|----------------------------|
